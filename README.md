@@ -1,4 +1,4 @@
-# Tutorial learning-react - my complete solution to [link](https://reactjs.org/tutorial/tutorial.html)
+# Tutorial TIC TAC TOE - my complete solution to React tutorial [link](https://reactjs.org/tutorial/tutorial.html)
 Contains exercise and solutions to the tutorials that I have used for learning React
 
 ## How to build and run

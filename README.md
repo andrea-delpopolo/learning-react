@@ -13,6 +13,10 @@ npm start
 - Delete all files in the src/ folder of the new project
 - Paste `index.js` and `index.css` in the src/ folder
 
+## Deployment
+
+The solution has been deployed to Azure @ https://tictactoereact.azurewebsites.net/
+
 ## Features list
 
 - Display the location for each move in the format (col, row) in the move history list.

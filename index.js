@@ -118,7 +118,7 @@ class Game extends React.Component {
     if (winner) {
       status = 'Winner: '+ winner.player;
     }
-    else if (moves.length == 9)
+    else if (moves.length === 9)
     {
       status = 'Draw! No winner!';
     }
